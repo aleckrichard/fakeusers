@@ -109,6 +109,116 @@
       "Address": "951 Chestnut St",
       "City": "Iquique",
       "Country": "Chile"
+    },
+    {
+      "Id": "112233445",
+      "Rut": "112233445",
+      "Name": "Sofia",
+      "LastName": "Muñoz",
+      "Email": "sofia.munoz@example.com",
+      "Phone": "1122334455",
+      "Address": "1010 Andes St",
+      "City": "Puerto Montt",
+      "Country": "Chile"
+    },
+    {
+      "Id": "223344556",
+      "Rut": "223344556",
+      "Name": "Ricardo",
+      "LastName": "Vega",
+      "Email": "ricardo.vega@example.com",
+      "Phone": "2233445566",
+      "Address": "2020 Pacific St",
+      "City": "Copiapó",
+      "Country": "Chile"
+    },
+    {
+      "Id": "334455667",
+      "Rut": "334455667",
+      "Name": "Camila",
+      "LastName": "Navarro",
+      "Email": "camila.navarro@example.com",
+      "Phone": "3344556677",
+      "Address": "3030 Atlantic St",
+      "City": "Osorno",
+      "Country": "Chile"
+    },
+    {
+      "Id": "445566778",
+      "Rut": "445566778",
+      "Name": "Felipe",
+      "LastName": "Silva",
+      "Email": "felipe.silva@example.com",
+      "Phone": "4455667788",
+      "Address": "4040 Magallanes St",
+      "City": "Punta Arenas",
+      "Country": "Chile"
+    },
+    {
+      "Id": "556677889",
+      "Rut": "556677889",
+      "Name": "Valentina",
+      "LastName": "Reyes",
+      "Email": "valentina.reyes@example.com",
+      "Phone": "5566778899",
+      "Address": "5050 Patagonia St",
+      "City": "Chillán",
+      "Country": "Chile"
+    },
+    {
+      "Id": "667788990",
+      "Rut": "667788990",
+      "Name": "Tomás",
+      "LastName": "Cordero",
+      "Email": "tomas.cordero@example.com",
+      "Phone": "6677889900",
+      "Address": "6060 Arauco St",
+      "City": "Quillota",
+      "Country": "Chile"
+    },
+    {
+      "Id": "778899001",
+      "Rut": "778899001",
+      "Name": "Martina",
+      "LastName": "Espinoza",
+      "Email": "martina.espinoza@example.com",
+      "Phone": "7788990011",
+      "Address": "7070 Cordillera St",
+      "City": "San Fernando",
+      "Country": "Chile"
+    },
+    {
+      "Id": "889900112",
+      "Rut": "889900112",
+      "Name": "Diego",
+      "LastName": "Fuentes",
+      "Email": "diego.fuentes@example.com",
+      "Phone": "8899001122",
+      "Address": "8080 Litoral St",
+      "City": "Melipilla",
+      "Country": "Chile"
+    },
+    {
+      "Id": "990011223",
+      "Rut": "990011223",
+      "Name": "Paula",
+      "LastName": "Carrasco",
+      "Email": "paula.carrasco@example.com",
+      "Phone": "9900112233",
+      "Address": "9090 Norte St",
+      "City": "Calama",
+      "Country": "Chile"
+    },
+    {
+      "Id": "101112131",
+      "Rut": "101112131",
+      "Name": "Esteban",
+      "LastName": "Mora",
+      "Email": "esteban.mora@example.com",
+      "Phone": "1011121311",
+      "Address": "1111 Sur St",
+      "City": "Los Ángeles",
+      "Country": "Chile"
     }
   ]
 }
