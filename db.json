@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "Id": "173578067",
+      "id": "173578067",
       "Rut": "173578067",
       "Name": "Alex",
       "LastName": "Alvarado",
@@ -12,7 +12,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "234567890",
+      "id": "234567890",
       "Rut": "234567890",
       "Name": "Pedro",
       "LastName": "Pasckal",
@@ -23,7 +23,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "345678901",
+      "id": "345678901",
       "Rut": "345678901",
       "Name": "Sandra",
       "LastName": "Bullock",
@@ -34,7 +34,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "456789012",
+      "id": "456789012",
       "Rut": "456789012",
       "Name": "Maria",
       "LastName": "Perez",
@@ -45,7 +45,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "567890123",
+      "id": "567890123",
       "Rut": "567890123",
       "Name": "Pedro",
       "LastName": "Ramirez",
@@ -56,7 +56,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "678901234",
+      "id": "678901234",
       "Rut": "678901234",
       "Name": "Ana",
       "LastName": "Torres",
@@ -67,7 +67,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "789012345",
+      "id": "789012345",
       "Rut": "789012345",
       "Name": "Luis",
       "LastName": "Soto",
@@ -78,7 +78,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "890123456",
+      "id": "890123456",
       "Rut": "890123456",
       "Name": "Isabel",
       "LastName": "Morales",
@@ -89,7 +89,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "901234567",
+      "id": "901234567",
       "Rut": "901234567",
       "Name": "Jorge",
       "LastName": "Castro",
@@ -100,7 +100,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "012345678",
+      "id": "012345678",
       "Rut": "012345678",
       "Name": "Patricia",
       "LastName": "Rojas",
@@ -111,7 +111,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "112233445",
+      "id": "112233445",
       "Rut": "112233445",
       "Name": "Sofia",
       "LastName": "Muñoz",
@@ -122,7 +122,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "223344556",
+      "id": "223344556",
       "Rut": "223344556",
       "Name": "Ricardo",
       "LastName": "Vega",
@@ -133,7 +133,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "334455667",
+      "id": "334455667",
       "Rut": "334455667",
       "Name": "Camila",
       "LastName": "Navarro",
@@ -144,7 +144,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "445566778",
+      "id": "445566778",
       "Rut": "445566778",
       "Name": "Felipe",
       "LastName": "Silva",
@@ -155,7 +155,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "556677889",
+      "id": "556677889",
       "Rut": "556677889",
       "Name": "Valentina",
       "LastName": "Reyes",
@@ -166,7 +166,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "667788990",
+      "id": "667788990",
       "Rut": "667788990",
       "Name": "Tomás",
       "LastName": "Cordero",
@@ -177,7 +177,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "778899001",
+      "id": "778899001",
       "Rut": "778899001",
       "Name": "Martina",
       "LastName": "Espinoza",
@@ -188,7 +188,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "889900112",
+      "id": "889900112",
       "Rut": "889900112",
       "Name": "Diego",
       "LastName": "Fuentes",
@@ -199,7 +199,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "990011223",
+      "id": "990011223",
       "Rut": "990011223",
       "Name": "Paula",
       "LastName": "Carrasco",
@@ -210,7 +210,7 @@
       "Country": "Chile"
     },
     {
-      "Id": "101112131",
+      "id": "101112131",
       "Rut": "101112131",
       "Name": "Esteban",
       "LastName": "Mora",
