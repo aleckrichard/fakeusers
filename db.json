@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "Rut": "173578067",
+      "Name": "Alex",
+      "LastName": "Alvarado",
+      "Email": "alex.alvarado@example.com",
+      "Phone": "1234567890",
+      "Address": "123 Main St",
+      "City": "Santiago",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "234567890",
+      "Name": "Pedro",
+      "LastName": "Pasckal",
+      "Email": "pedro.pasckal@example.com",
+      "Phone": "2345678901",
+      "Address": "456 Elm St",
+      "City": "Valparaiso",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "345678901",
+      "Name": "Sandra",
+      "LastName": "Bullock",
+      "Email": "sandra.bullock@example.com",
+      "Phone": "3456789012",
+      "Address": "789 Oak St",
+      "City": "Concepcion",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "456789012",
+      "Name": "Maria",
+      "LastName": "Perez",
+      "Email": "maria.perez@example.com",
+      "Phone": "4567890123",
+      "Address": "321 Pine St",
+      "City": "La Serena",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "567890123",
+      "Name": "Pedro",
+      "LastName": "Ramirez",
+      "Email": "pedro.ramirez@example.com",
+      "Phone": "5678901234",
+      "Address": "654 Cedar St",
+      "City": "Antofagasta",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "678901234",
+      "Name": "Ana",
+      "LastName": "Torres",
+      "Email": "ana.torres@example.com",
+      "Phone": "6789012345",
+      "Address": "987 Maple St",
+      "City": "Temuco",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "789012345",
+      "Name": "Luis",
+      "LastName": "Soto",
+      "Email": "luis.soto@example.com",
+      "Phone": "7890123456",
+      "Address": "159 Spruce St",
+      "City": "Rancagua",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "890123456",
+      "Name": "Isabel",
+      "LastName": "Morales",
+      "Email": "isabel.morales@example.com",
+      "Phone": "8901234567",
+      "Address": "753 Birch St",
+      "City": "Talca",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "901234567",
+      "Name": "Jorge",
+      "LastName": "Castro",
+      "Email": "jorge.castro@example.com",
+      "Phone": "9012345678",
+      "Address": "852 Walnut St",
+      "City": "Arica",
+      "Country": "Chile"
+    },
+    {
+      "Rut": "012345678",
+      "Name": "Patricia",
+      "LastName": "Rojas",
+      "Email": "patricia.rojas@example.com",
+      "Phone": "0123456789",
+      "Address": "951 Chestnut St",
+      "City": "Iquique",
+      "Country": "Chile"
+    }
+  ]
+}
