@@ -220,5 +220,37 @@
       "City": "Los Ángeles",
       "Country": "Chile"
     }
+  ],
+  "motivos": [
+    {
+      "id": 1,
+      "Name": "Incendios",
+      "Days": "10"
+    },
+    {
+      "id": 2,
+      "Name": "Incumplimiento",
+      "Days": "15"
+    },
+    {
+      "id": 3,
+      "Name": "Catástrofes naturales",
+      "Days": "8"
+    },
+    {
+      "id": 4,
+      "Name": "Ley 20720",
+      "Days": "20"
+    },
+    {
+      "id": 5,
+      "Name": "Otros",
+      "Days": "5"
+    },
+    {
+      "id": 6,
+      "Name": "Fuerza mayor",
+      "Days": "12"
+    }
   ]
 }
